@@ -1,0 +1,14 @@
+layout_spectrum: 0.7500988109968603
+typography_spectrum: 0.19884933764114976
+color:
+  brandStrength: 0.24253636854700744
+  lightness: 0.747883535688743
+  saturation: 0.3256064001470804
+  rhythmicContrast: 0.6302562840282917
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: salvazienda
